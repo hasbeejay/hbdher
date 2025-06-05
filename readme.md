@@ -1,0 +1,1 @@
+the code contains a birthday wish site for your special lady. you have to change the name and pitture from the html file. this is not ownership of anyone, its a copied and edited version of an existing repo
